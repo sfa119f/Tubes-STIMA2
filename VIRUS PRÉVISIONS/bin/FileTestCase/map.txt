@@ -1,0 +1,9 @@
+8
+Ams Bgr 0,02
+Ams Cbn 0,005
+Bgr Ams 0,005
+Bgr Dps 0,005
+Cbn Ams 0,1
+Cbn Bgr 0,1
+Dps Ams 0,05
+Dps Cbn 0,1

@@ -1,0 +1,16 @@
+F:\Program\stima\tubes2\VIRUS PRÉVISIONS\obj\Debug\VIRUS PRÉVISIONS.csprojAssemblyReference.cache
+F:\Program\stima\tubes2\VIRUS PRÉVISIONS\obj\Debug\VIRUS_PRÉVISIONS.Properties.Resources.resources
+F:\Program\stima\tubes2\VIRUS PRÉVISIONS\obj\Debug\VIRUS PRÉVISIONS.csproj.GenerateResource.cache
+F:\Program\stima\tubes2\VIRUS PRÉVISIONS\bin\Debug\VIRUS PRÉVISIONS.exe.config
+F:\Program\stima\tubes2\VIRUS PRÉVISIONS\bin\Debug\VIRUS PRÉVISIONS.exe
+F:\Program\stima\tubes2\VIRUS PRÉVISIONS\bin\Debug\VIRUS PRÉVISIONS.pdb
+F:\Program\stima\tubes2\VIRUS PRÉVISIONS\bin\Debug\Microsoft.GLEE.dll
+F:\Program\stima\tubes2\VIRUS PRÉVISIONS\bin\Debug\Microsoft.GLEE.Drawing.dll
+F:\Program\stima\tubes2\VIRUS PRÉVISIONS\bin\Debug\Microsoft.GLEE.GraphViewerGDI.dll
+F:\Program\stima\tubes2\VIRUS PRÉVISIONS\bin\Debug\Microsoft.GLEE.pdb
+F:\Program\stima\tubes2\VIRUS PRÉVISIONS\bin\Debug\Microsoft.GLEE.Drawing.pdb
+F:\Program\stima\tubes2\VIRUS PRÉVISIONS\bin\Debug\Microsoft.GLEE.GraphViewerGDI.pdb
+F:\Program\stima\tubes2\VIRUS PRÉVISIONS\obj\Debug\TuBesSTIMA2.Virus_Prévisions.resources
+F:\Program\stima\tubes2\VIRUS PRÉVISIONS\obj\Debug\VIRUS PRÉVISIONS.csproj.CopyComplete
+F:\Program\stima\tubes2\VIRUS PRÉVISIONS\obj\Debug\VIRUS PRÉVISIONS.exe
+F:\Program\stima\tubes2\VIRUS PRÉVISIONS\obj\Debug\VIRUS PRÉVISIONS.pdb
